@@ -1,0 +1,46 @@
+.mintContainer{
+    background-color: white;
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.nftHashContainer{
+    margin-bottom: 10px;
+
+}
+
+.contractType{
+    font-weight: bold;
+}
+
+.contractMetadata{
+    width: 580px;
+    margin-top: 10px;
+    overflow-wrap: break-word;
+}
+
+.mintWithMetadata{
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mintButton{
+    width: 120px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mintButton:hover{
+    width: 120px;
+    height: 30px;
+}
